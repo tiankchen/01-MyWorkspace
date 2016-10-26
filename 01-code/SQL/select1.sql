@@ -1,0 +1,1 @@
+INSERT INTO ctest_copy SELECT * FROM ctest;
